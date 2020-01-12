@@ -29,3 +29,7 @@ footer {
     max-height: 150px;
     padding: 5px;
 }
+
+#currentdate {
+    color: rgba(50,50,250,1)
+}
