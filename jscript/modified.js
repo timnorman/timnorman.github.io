@@ -19,7 +19,7 @@ function GetTime() {
     return CurTime
 }
 
-document.write(": ")
+document.write("Date: ")
 document.write(lastModified() + " @ " + GetTime());
 document.write("");
 
